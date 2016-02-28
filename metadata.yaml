@@ -1,0 +1,30 @@
+_repo: Prinz-Friedrich-von-Homburg_6723
+creator:
+  author:
+    agent_name: Kleist, Heinrich von
+    aliases:
+    - Kleist, H. V. (Heinrich von)
+    - Kleist, Bernd Heinrich Wilhelm von
+    - Von Kleist, Heinrich
+    birthdate: 1777
+    deathdate: 1811
+    gutenberg_agent_id: '2127'
+    url: http://www.gutenberg.org/2009/agents/2127
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Kleist
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6723'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Drama'
+- !lcsh 'Trials (Military offenses) -- Drama'
+- !lcc 'PT'
+- !lcsh 'Kings and rulers -- Drama'
+title: Prinz Friedrich von Homburg
+url: http://www.gutenberg.org/ebooks/6723
